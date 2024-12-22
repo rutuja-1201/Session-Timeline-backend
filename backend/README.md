@@ -18,8 +18,10 @@ Install dependencies
 
 **npm install**
 Environment Variables Create a .env file in the root directory.
+
 PORT=5000
 DB_URI=mongodb://localhost:27017/session-timeline
+
 
 Run the application
 
