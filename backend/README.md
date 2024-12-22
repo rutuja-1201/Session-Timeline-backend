@@ -10,7 +10,7 @@ The backend is a Node.js application using Express.js for building RESTful APIs.
 **Setup Instructions**
 1. **Clone the repository**
    ```
-   git clone <repository-url>
+   git clone
    cd backend
    ```
 
